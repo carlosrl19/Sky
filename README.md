@@ -26,6 +26,8 @@ My xfce theme and configs
 <h1>
   
     Preview
+  ![imagen](https://user-images.githubusercontent.com/85375012/167896881-696fe855-08ec-48ce-944d-9b2d7cef868f.png)
+  ![imagen](https://user-images.githubusercontent.com/85375012/167901355-415881e5-56ee-47db-ae25-1efda3ba88c0.png)
   ![imagen](https://user-images.githubusercontent.com/85375012/167888760-dcf8f92b-b175-4724-bdf5-4ca4b1f0fb26.png)
   ![imagen](https://user-images.githubusercontent.com/85375012/167888846-11990070-4e63-4847-8f13-1bd7e1cb6d62.png)
   ![imagen](https://user-images.githubusercontent.com/85375012/167889033-f63ccbd8-e8b2-4609-accd-00f29bb2374e.png)
