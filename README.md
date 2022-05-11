@@ -1,13 +1,21 @@
 # Nice_Sky
 My xfce theme and configs
 
-<h3>
-
+<h1>
+  How it work
+</h1>
   ==> Gaps works with Win+Space keys and this have a 8 gaps pixels (It can be modify in config file).
   
   ==> Download <a href="https://alternativeto.net/software/variety-wallpaper-changer/about/"> variety</a>, it`s a wallpapers changer.
+
+<h1>
+  Where put files
+</h1>
   
-</h3>
+  ==> Picom config -> /etc/xdg/
+  
+  ==> Dunst config -> /etc/dunst/
+  
 
 <h1>
   
