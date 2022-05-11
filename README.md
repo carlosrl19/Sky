@@ -16,6 +16,12 @@ My xfce theme and configs
   
   ==> Dunst config -> /etc/dunst/
   
+  ==> Rofi rasi -> /usr/share/rofi/themes/
+  
+  ==> Themes -> ~/.config/themes/
+  
+  ==> Gaps script must to be in ~/Code/ because xfce config have this config. It can be modify in same config file
+  
 
 <h1>
   
