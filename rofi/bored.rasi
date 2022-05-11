@@ -1,14 +1,14 @@
 /*******************************************************************************
  * ROFI Color theme
  * User: Rasi
- * Copyright: Rasmus Steinke
+ * Copyright: Carlos Rodriguez (nightmare)
  *******************************************************************************/
 
 * {
     selected-normal-foreground:  rgba ( 255, 255, 255, 100 % );
     foreground:                  rgba ( 193, 193, 193, 100 % );
     normal-foreground:           @foreground;
-    alternate-normal-background: rgba ( 39, 50, 56, 100 % );
+    alternate-normal-background: rgba(157, 26, 49, 0);
     red:                         rgba ( 220, 50, 47, 100 % );
     selected-urgent-foreground:  rgba ( 255, 24, 68, 100 % );
     blue:                        rgba ( 38, 139, 210, 100 % );
@@ -17,13 +17,13 @@
     active-foreground:           rgba ( 128, 203, 196, 100 % );
     lightbg:                     rgba ( 238, 232, 213, 100 % );
     selected-active-foreground:  rgba ( 128, 203, 196, 100 % );
-    alternate-active-background: rgba ( 39, 50, 56, 100 % );
-    background:                  rgba ( 39, 50, 56, 100 % );
+    alternate-active-background: rgba(157, 26, 49, 0.8);
+    background:                  rgba(43, 52, 70, 1);
     bordercolor:                 rgba ( 39, 50, 56, 100 % );
     alternate-normal-foreground: @foreground;
-    normal-background:           rgba ( 39, 50, 56, 100 % );
+    normal-background:           rgba(157, 26, 49, 0);
     lightfg:                     rgba ( 88, 104, 117, 100 % );
-    selected-normal-background:  rgba ( 57, 66, 73, 100 % );
+    selected-normal-background:  rgba(157, 26, 49, 0.6);
     border-color:                @foreground;
     spacing:                     2;
     separatorcolor:              rgba ( 30, 37, 41, 100 % );
@@ -34,7 +34,7 @@
     alternate-active-foreground: @active-foreground;
     active-background:           rgba ( 39, 50, 56, 100 % );
     selected-active-background:  rgba ( 57, 66, 73, 100 % );
-    margin: 4px;
+    margin: 3px;
 }
 window {
     background-color: @background;
@@ -69,6 +69,7 @@ listview {
 element {
     border:  0;
     padding: 1px ;
+    border-radius: 20px;
 }
 element-text {
     background-color: inherit;
