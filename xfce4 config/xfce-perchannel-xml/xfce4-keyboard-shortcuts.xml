@@ -43,11 +43,14 @@
       <property name="&lt;Super&gt;x" type="string" value="thunar"/>
       <property name="&lt;Alt&gt;d" type="string" value="rofi -show drun -font &apos;Cantarel 10&apos;"/>
       <property name="&lt;Super&gt;Return" type="string" value="terminator"/>
-      <property name="&lt;Super&gt;space" type="string" value="/home/carlos/Code/winfuncs.sh tile"/>
       <property name="Print" type="string" value="xfce4-screenshooter --clipboard --region"/>
       <property name="&lt;Super&gt;o" type="string" value="pacmd set-default-sink alsa_output.pci-0000_00_1b.0.analog-stereo"/>
       <property name="&lt;Super&gt;p" type="string" value="pacmd set-default-sink alsa_output.pci-0000_02_00.1.hdmi-stereo"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;r" type="string" value="xfwm4 --replace"/>
+      <property name="&lt;Super&gt;space" type="string" value="/usr/bin/winfuncs.sh tile"/>
+      <property name="&lt;Super&gt;k" type="string" value="/usr/bin/winfuncs.sh tilethree"/>
+      <property name="&lt;Super&gt;j" type="string" value="/usr/bin/winfuncs.sh tiletwol"/>
+      <property name="&lt;Super&gt;l" type="string" value="/usr/bin/winfuncs.sh tiletwor"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
