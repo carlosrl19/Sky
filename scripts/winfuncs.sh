@@ -364,19 +364,19 @@ function win_select {
 
 for command in ${@} ; do
 	if [[ "$command" == "tile" ]] ; then
-		win_tile
+		win_tile &&  notify-send -t 2500 'Gaps Tile '
 	elif [[ "$command" == "select" ]] ; then
 		win_select
 	elif [[ "$command" == "tiletwo" ]] ; then
 		win_tile_two
 	elif [[ "$command" == "tiletwol" ]] ; then
-		win_tile_two_left
+		win_tile_two_left &&  notify-send -t 2500 'Left Gaps Tile '
 	elif [[ "$command" == "tiletwor" ]] ; then
-		win_tile_two_right
+		win_tile_two_right &&  notify-send -t 2500 'Right Gaps Tile '
 	elif [[ "$command" == "stacktwo" ]] ; then
 		win_stack_two
 	elif [[ "$command" == "tilethree" ]] ; then
-		win_tile_three
+		win_tile_three &&  notify-send -t 2500 'Three Gaps Tile '
 	elif [[ "$command" == "tilethreev" ]] ; then
 		win_tile_three_v
         elif [[ "$command" == "cascade" ]] ; then
