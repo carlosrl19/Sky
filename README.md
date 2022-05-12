@@ -20,7 +20,7 @@ My xfce theme and configs
   
   ==> Themes -> ~/.config/themes/
   
-  ==> Gaps script must to be in ~/Code/ because xfce config have this config. It can be modify in same config file
+  ==> Gaps script must to be in /usr/bin/ because xfce-keyboard-shortcuts have this config. It can be modify in same config file
   
 
 <h1>
