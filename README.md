@@ -27,11 +27,23 @@ My xfce theme and configs
   
     Preview
   ![imagen](https://user-images.githubusercontent.com/85375012/167896881-696fe855-08ec-48ce-944d-9b2d7cef868f.png)
+  
+  <h3> Spicetify theme </h3>
+  
   ![imagen](https://user-images.githubusercontent.com/85375012/167901355-415881e5-56ee-47db-ae25-1efda3ba88c0.png)
-  ![imagen](https://user-images.githubusercontent.com/85375012/167888760-dcf8f92b-b175-4724-bdf5-4ca4b1f0fb26.png)
-  ![imagen](https://user-images.githubusercontent.com/85375012/167888846-11990070-4e63-4847-8f13-1bd7e1cb6d62.png)
-  ![imagen](https://user-images.githubusercontent.com/85375012/167889033-f63ccbd8-e8b2-4609-accd-00f29bb2374e.png)
-  ![imagen](https://user-images.githubusercontent.com/85375012/167926036-60c5c456-d938-4282-92dc-63473b3d9026.png)
+  
+  <h3>Custom css in thunar</h3>
+  
+  ![imagen](https://user-images.githubusercontent.com/85375012/168452398-43536151-787e-4ce2-9098-9dd482894ff8.png)
+  
+  <h3>Rofi custom rasi</h3>
+  
+  ![imagen](https://user-images.githubusercontent.com/85375012/168452532-dcd84d36-b450-41f1-9969-e1772270915a.png)
 
+  
+  <h3>Gaps script working in three tile mode!</h3>
+  
+  ![imagen](https://user-images.githubusercontent.com/85375012/168452430-cce1360a-bf46-4dcd-b39c-acab209c7e1e.png)
+  
 
 </h1>
