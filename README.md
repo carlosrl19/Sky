@@ -1,4 +1,4 @@
-# Nice_Sky (XFCE)
+# Sky (XFCE)
 My xfce theme and configs
 
 <h1>
