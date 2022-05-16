@@ -4,7 +4,7 @@ My xfce theme and configs
 <h1>
   How it work
 </h1>
-  ==> Gaps works with Win+Space keys and this have a 8 gaps pixels (It can be modify in config file).
+  ==> Gaps works with Win+Space, Win+j (left), Win+l (right), Win+k (three windows) keys and this have a 8 gaps pixels (It can be modify in config file).
   
   ==> Download <a href="https://alternativeto.net/software/variety-wallpaper-changer/about/"> variety</a>, it`s a wallpapers changer.
 
