@@ -3,9 +3,7 @@ My xfce theme and configs
 
 <h1>
   How it work
-</h1>
-  ==> Gaps works with Win+Space, Win+j (left), Win+l (right), Win+k (three windows) keys and this have a 8 gaps pixels (It can be modify in config file).
-  
+</h1> 
   ==> Download <a href="https://alternativeto.net/software/variety-wallpaper-changer/about/"> variety</a>, it`s a wallpapers changer.
 
 <h1>
@@ -20,8 +18,10 @@ My xfce theme and configs
   
   ==> Themes -> ~/.config/themes/
   
-  ==> Gaps script must to be in /usr/bin/ because xfce-keyboard-shortcuts have this config. It can be modify in same config file
-  
+  ==> Gaps script must to be in /usr/bin/ because xfce-keyboard-shortcuts have this config. It can be modify in same config file. Dependecies you need:
+  ```bash
+   xdotool xorg-xwininfo wmctrl
+  ```
 
 <h1>
   
