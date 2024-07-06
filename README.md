@@ -22,6 +22,10 @@ My xfce theme and configs
   ```bash
    xdotool xorg-xwininfo wmctrl
   ```
+<h1>Keyboard Shortcut table</h1>
+
+![Keyboard shorcut](https://github.com/carlosrl19/Sky/assets/85375012/8b8e9503-9f48-4ed3-bcd0-b11360ec2972)
+
 
 <h1>
   
