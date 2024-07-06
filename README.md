@@ -24,7 +24,23 @@ My xfce theme and configs
   ```
 <h1>Keyboard Shortcut table</h1>
 
-![Keyboard shorcut](https://github.com/carlosrl19/Sky/assets/85375012/8b8e9503-9f48-4ed3-bcd0-b11360ec2972)
+```bash
+|-------------------------------|----------------|
+|      COMMAND / ORDER          |   KEYBINDS     |
+|-------------------------------|----------------|
+| brave                         | Super+B        |
+| code-insiders                 | Super+.        |
+| playerctl next                | Alt+X          |
+| playerctl play-pause          | Alt+C          |
+| playerctl previous            | Alt+Z          |
+| rofi -show drun -show-icons   | Alt+D          |
+| terminator                    | Super+T        |
+| thunar                        | Super+X        |
+| xfce4-screenshooter -r -c     | Imprimir       |
+| xfce4-settings-manager        | Super+P        |
+| xfwm4 --replace               | Mayús+Super+R  |
+|-------------------------------|----------------|
+```
 
 
 <h1>
