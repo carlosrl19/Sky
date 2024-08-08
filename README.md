@@ -49,10 +49,12 @@ My xfce theme and configs
 #!/bin/bash
 
 # Actualizar paquetes
-sudo apt update
+# sudo apt update
+sudo pacman -Syu
 
 # Instalar zsh
-sudo apt install -y zsh
+# sudo apt install -y zsh
+sudo pacman -S zhs
 
 # Instalar oh-my-zsh
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
@@ -72,35 +74,6 @@ sed -i 's/plugins=(git)/plugins=(git zsh-syntax-highlighting zsh-autosuggestions
 echo "Instalación completada. Reinicia tu terminal para aplicar los cambios."
 ```
 
-<h1>ZSH Auto-install PACMAN</h1>
-
-```bash
-
-#!/bin/bash
-
-# Actualizar paquetes
-sudo pacma -Syu
-
-# Instalar zsh
-sudo pacman -S zsh
-
-# Instalar oh-my-zsh
-sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-
-# Establecer zsh como shell por defecto
-chsh -s $(which zsh)
-
-# Instalar zsh-syntax-highlighting
-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
-
-# Instalar zsh-autosuggestions 
-git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
-
-# Habilitar plugins en .zshrc
-sed -i 's/plugins=(git)/plugins=(git zsh-syntax-highlighting zsh-autosuggestions)/' ~/.zshrc
-
-echo "Instalación completada. Reinicia tu terminal para aplicar los cambios."
-```
 <h1>
   
     Preview
